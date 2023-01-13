@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size">40dp</dimen>
+    <dimen name="country_recycler_item_image_width">120dp</dimen>
+    <dimen name="country_recycler_item_image_height">80dp</dimen>
+    <dimen name="country_recycler_item_text_margin">8dp</dimen>
+    <dimen name="progress_bar_margin">40dp</dimen>
+    <dimen name="fragment_two_text_margin">8dp</dimen>
+    <dimen name="currency_view_margin">8dp</dimen>
+    <dimen name="currency_view_text_margin">20dp</dimen>
+    <dimen name="error_image_size">160dp</dimen>
+</resources>

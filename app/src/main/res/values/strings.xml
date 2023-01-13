@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="load_error">Load Error</string>
+    <string name="country_name_preview">COUNTRY_NAME</string>
+    <string name="flag">Flag</string>
+    <string name="region">Region :</string>
+    <string name="capital">Capital :</string>
+    <string name="text_preview">ANY_TEXT</string>
+    <string name="currencies">Currencies</string>
+    <string name="timezones">Timezones</string>
+    <string name="currency_code_preview">RUS</string>
+    <string name="currency_name_preview">Русский рубль</string>
+    <string name="currency_symbol_preview">P</string>
+</resources>
