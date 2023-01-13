@@ -1,11 +1,12 @@
 package com.example.countries
 
 import android.app.Application
+import com.example.countries.di.AppComponent
 import com.example.countries.di.DaggerAppComponent
 
 class App : Application() {
 
-    val appComponent by lazy {
+    val appComponent: AppComponent by lazy {
         DaggerAppComponent.create()
     }
 

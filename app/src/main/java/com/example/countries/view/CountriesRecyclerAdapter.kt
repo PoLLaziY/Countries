@@ -12,6 +12,7 @@ import com.example.countries.domain.Country
 
 class CountriesRecyclerAdapter(private val onClick: (Int) -> Unit) :
     ListAdapter<Country, CountryViewHolder>(CountryDiffUntilCallBack) {
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CountryViewHolder {
         val inflater = LayoutInflater.from(parent.context)
         val binding = FragmentFirstCountryRecyclerItemBinding.inflate(inflater, parent, false)
